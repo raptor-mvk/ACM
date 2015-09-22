@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1442948793 source:d:\documents\github\acm\volume i\task1000.cpp
+	<iostream>
+
+1442953967 source:d:\documents\github\acm\tools\reader.cpp
+	"Reader.h"
+
+1442953967 d:\documents\github\acm\tools\reader.h
+	<iostream>
+	<cstring>
+
+1442953402 source:d:\documents\github\acm\volume i\task1001.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"..\Tools\Reader.h"
+
