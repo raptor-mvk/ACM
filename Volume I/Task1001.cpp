@@ -1,7 +1,8 @@
 /*
- http://acm.timus.ru/problem.aspx?space=1&num=1001
- Just input and output
+  http://acm.timus.ru/problem.aspx?space=1&num=1001
+  Using backward reader for reversing input order
 */
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>

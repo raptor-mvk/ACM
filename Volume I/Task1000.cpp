@@ -1,7 +1,8 @@
 /*
- http://acm.timus.ru/problem.aspx?space=1&num=1000
- Just input and output
+  http://acm.timus.ru/problem.aspx?space=1&num=1000
+  Just input and output
 */
+
 #include <iostream>
 
 using namespace std;
