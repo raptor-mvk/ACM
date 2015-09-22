@@ -1,5 +1,5 @@
 /*
-  http://acm.timus.ru/problem.aspx?space=1&num=1000
+  http://acm.timus.ru/problem.aspx?space=1&num=1293
   Just input and output
 */
 
