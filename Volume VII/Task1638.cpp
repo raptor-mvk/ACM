@@ -5,6 +5,7 @@
 //       moving left
 
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 

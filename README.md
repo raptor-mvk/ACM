@@ -17,3 +17,6 @@ Solutions to problems from http://acm.timus.ru/
     * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001)
   * Circular queue
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
+* Games
+	* One-player
+		* [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051)
