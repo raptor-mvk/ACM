@@ -1,6 +1,7 @@
 /*
   http://acm.timus.ru/problem.aspx?space=1&num=1336
   m could be n^2, k could be n.
+  #elementary
 */
 
 #include <iostream>

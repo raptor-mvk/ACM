@@ -1,6 +1,7 @@
 /*
   http://acm.timus.ru/problem.aspx?space=1&num=1194
   Each two hobbits will shake hands except married couples
+  #easy #math
 */
 
 #include <iostream>

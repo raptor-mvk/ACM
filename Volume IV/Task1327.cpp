@@ -3,6 +3,7 @@
   if both a and b are even, then answer is (b - a) / 2
   if either a, or b is odd, then answer is (b - a + 1) / 2
   if both a and b are odd, then answer is (b - a) / 2 + 1
+  #easy #math
 */
 
 #include <iostream>

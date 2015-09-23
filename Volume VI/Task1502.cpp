@@ -2,6 +2,7 @@
   http://acm.timus.ru/problem.aspx?space=1&num=1502
   Each number of points occurred N+2 times, so the answer is
   (N+2)*(1+2+...+N)=(N+2)*(N+1)*N/2
+  #easy #math
 */
 
 #include <iostream>

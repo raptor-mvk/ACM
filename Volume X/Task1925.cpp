@@ -1,6 +1,6 @@
 /*
   http://acm.timus.ru/problem.aspx?space=1&num=1925
-  Just input and output
+  #elementary
 */
 
 #include <iostream>

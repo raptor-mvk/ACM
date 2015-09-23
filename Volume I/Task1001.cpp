@@ -1,6 +1,7 @@
 /*
   http://acm.timus.ru/problem.aspx?space=1&num=1001
   Using backward reader for reversing input order
+  #easy #struct
 */
 
 #include <iostream>
