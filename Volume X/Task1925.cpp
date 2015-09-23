@@ -15,8 +15,9 @@ int main() {
 		cin >> temp;
 		g += temp;
 	}
-	if (b - g >= 2 * (n + 1))
+	if (b - g >= 2 * (n + 1)) {
 		cout << (b - g - 2 * (n + 1));
-	else
+	} else {
 		cout << "Big Bang!";
+	}
 }

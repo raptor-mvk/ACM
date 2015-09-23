@@ -12,8 +12,10 @@ int main() {
   char *wheel;
   cin >> n >> m;
   wheel = new char[n];
-  for (int i = 0; i < n; i++)
+  for (int i = 0; i < n; i++) {
     cin >> wheel[i];
-  for (int i = 0; i < DIGITS_COUNT; i++)
+  }
+  for (int i = 0; i < DIGITS_COUNT; i++) {
     cout << wheel[(i + m) % n];
+  }
 }

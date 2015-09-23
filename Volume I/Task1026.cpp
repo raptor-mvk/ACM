@@ -24,8 +24,9 @@ int main() {
     cin >> t;
     j = 0;
     l = 0;
-    while (j < t)
+    while (j < t) {
       j += database[l++];
+    }
     cout << l << '\n';
   }
 }

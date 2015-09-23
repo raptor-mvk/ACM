@@ -2,15 +2,13 @@
 1442948793 source:d:\documents\github\acm\volume i\task1000.cpp
 	<iostream>
 
-1442953967 source:d:\documents\github\acm\tools\reader.cpp
+1443041372 source:d:\documents\github\acm\tools\reader.cpp
 	"Reader.h"
 
-1442953967 d:\documents\github\acm\tools\reader.h
-	<iostream>
-	<cstring>
+1443041767 d:\documents\github\acm\tools\reader.h
+	"FString.h"
 
-1442953402 source:d:\documents\github\acm\volume i\task1001.cpp
-	<iostream>
+1443041640 source:d:\documents\github\acm\volume i\task1001.cpp
 	<iomanip>
 	<cmath>
 	"..\Tools\Reader.h"
@@ -21,4 +19,20 @@
 1443007159 source:d:\documents\github\acm\volume i\task1048.cpp
 	<iostream>
 	"..\Tools\Reader.h"
+
+1443039527 source:d:\documents\github\acm\tools\array.cpp
+	"Array.h"
+
+1443039598 d:\documents\github\acm\tools\array.h
+	<iostream>
+	<cstring>
+
+1443040580 source:d:\documents\github\acm\tools\fstring.cpp
+	"FString.h"
+
+1443040297 d:\documents\github\acm\tools\fstring.h
+	"Array.h"
+
+1443037519 source:d:\documents\github\acm\volume i\task1051.cpp
+	<iostream>
 
