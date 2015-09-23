@@ -32,7 +32,22 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="Tools/Reader.cpp" />
+		<Unit filename="Tools/Reader.h" />
+		<Unit filename="Volume III/Task1264.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume III/Task1293.cpp" />
+		<Unit filename="Volume II/Task1194.cpp" />
+		<Unit filename="Volume IV/Task1336.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1000.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1001.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
