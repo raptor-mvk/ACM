@@ -1,14 +1,12 @@
-/*
-  http://acm.timus.ru/problem.aspx?space=1&num=1264
-  #elementary
-*/
+// Topic: arithmetic
+// Subtopic: elementary
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-  int n,m;
-  cin>>n>>m;
-  cout<<(n*(m+1));
+  int n, m;
+  cin >> n >> m;
+  cout << (n * (m + 1));
 }

@@ -1,14 +1,12 @@
-/*
-  http://acm.timus.ru/problem.aspx?space=1&num=1000
-  #elementary
-*/
+// Topic: arithmetic
+// Subtopic: elementary
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-  int a,b;
-  cin>>a>>b;
-  cout<<(a+b);
+  int a, b;
+  cin >> a >> b;
+  cout << (a + b);
 }

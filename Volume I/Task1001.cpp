@@ -1,8 +1,6 @@
-/*
-  http://acm.timus.ru/problem.aspx?space=1&num=1001
-  Using backward reader for reversing input order
-  #easy #struct
-*/
+// Topic: data structures
+// Subtopic: stack
+// Using reader for speed up input, backward direction instead of stack
 
 #include <iostream>
 #include <iomanip>
@@ -11,17 +9,17 @@
 
 using namespace std;
 
-const int DATA_SIZE=256*1024+1;
+const int DATA_SIZE = 256 * 1024 + 1;
 
 int main() {
 	char *data;
 	reader *r;
 	long long temp;
-	data=new char[DATA_SIZE];
-	r=new reader(cin,data,DATA_SIZE);
+	data = new char[DATA_SIZE];
+	r = new reader(cin, data, DATA_SIZE);
 	r->fill();
-	cout<<fixed<<setprecision(4);
-	while(r->getNext<long long>(&temp,'b',false))
-		cout<<sqrt((double)temp)<<'\n';
-		cin>>temp;
+	cout << fixed << setprecision(4);
+	while (r->getNext<long long>(&temp, 'b', false))
+		cout << sqrt((double)temp) << '\n';
+		cin >> temp;
 }
