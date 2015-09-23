@@ -8,16 +8,21 @@
 using namespace std;
 
 int main() {
-  int n;
+	reader *r;
+  int n,size,d1,d2;
   char *str,*sum,t,t2;
   cin>>n;
-  cin.ignore(1,'\n');
-  str=new char[4*n];
+  size=4*n+1;
   sum=new char[n];
-  cin.getline(str,4*n,EOF);
+	str=new char[size];
+	r=new reader(cin,str,size);
+	r->fill();
+  t=0;
   for(int i=0;i<n;i++) {
-    sum[i]=(str[i*4]-'0'+str[i*4+2]-'0'+t)%10+'0';
-    t=(str[i*4]-'0'+str[i*4+2]-'0'+t)/10;
+    r->getNext<int>(&d1,'f',false);
+    r->getNext<int>(&d2,'f',false);
+    sum[i]=(d1+d2+t)%10+'0';
+    t=(d1+d2+t)/10;
     for(int j=-1;t>0;j--) {
       t2=((sum[i+j]-'0')+t)%10;
       t=((sum[i+j]-'0')+t)/10;

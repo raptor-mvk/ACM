@@ -18,3 +18,7 @@
 1442998367 source:d:\documents\github\acm\volume v\task1409.cpp
 	<iostream>
 
+1443007159 source:d:\documents\github\acm\volume i\task1048.cpp
+	<iostream>
+	"..\Tools\Reader.h"
+
