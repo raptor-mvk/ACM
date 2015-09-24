@@ -27,6 +27,8 @@ Solutions to problems from http://acm.timus.ru/
 * Math
 	* Reverse Polish notation
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
+	* Number theory
+    * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
