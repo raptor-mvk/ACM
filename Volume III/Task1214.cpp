@@ -11,8 +11,7 @@ int main() {
   cin >> x >> y;
   if (x > 0 && y > 0 && (x + y) %2) {
     cout << y << ' ' << x;
-  }
-  else {
+  } else {
     cout << x << ' ' << y;
   }
 }
