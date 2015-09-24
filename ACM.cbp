@@ -32,20 +32,56 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Tools/Array.cpp" />
+		<Unit filename="Tools/Array.h" />
+		<Unit filename="Tools/FString.cpp" />
+		<Unit filename="Tools/FString.h" />
 		<Unit filename="Tools/Reader.cpp" />
 		<Unit filename="Tools/Reader.h" />
 		<Unit filename="Volume III/Task1264.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="Volume III/Task1293.cpp" />
-		<Unit filename="Volume II/Task1194.cpp" />
+		<Unit filename="Volume III/Task1293.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume II/Task1194.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume IV/Task1327.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume IV/Task1336.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume IV/Task1370.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume I/Task1000.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume I/Task1001.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1026.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1048.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1051.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume VII/Task1638.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume VII/Task1639.cpp" />
+		<Unit filename="Volume VI/Task1502.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume V/Task1409.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume X/Task1925.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
