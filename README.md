@@ -41,6 +41,8 @@ Solutions to problems from http://acm.timus.ru/
 			[1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
 			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
+	* Search
+		* [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789),
 * Peculiar
 	* Code analysis
 		* [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
