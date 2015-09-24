@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-	long long n;
-	cin >> n;
-	cout << (n * n) << '\n' << n;
+	unsigned int n, m;
+	cin >> n >> m;
+	cout << (n > m ? 2 * m - 1 : 2 * n - 2);
 }
