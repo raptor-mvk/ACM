@@ -18,7 +18,8 @@ Solutions to problems from http://acm.timus.ru/
 			[1925](http://acm.timus.ru/problem.aspx?space=1&num=1925),
 			[2001](http://acm.timus.ru/problem.aspx?space=1&num=2001)
   * Progressions
-    * [1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
+    * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
+			[1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
