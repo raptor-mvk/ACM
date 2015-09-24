@@ -1,5 +1,7 @@
 // Topic: peculiar
 // Subtopic: code analysis
+// Idea: program calculates number of permutations
+//       while sorting with quick sort algorithm
 
 #include <iostream>
 
