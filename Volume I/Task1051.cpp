@@ -1,5 +1,5 @@
 // Topic: games
-// Subtopic: simple
+// Subtopic: directly calculated winning positions
 // Idea: if m = 1 then answer is n / 2 + n % 2
 //       if n = 1 then answer is m / 2 + m % 2
 //       if m or n is divisible by 3, then answer is 2

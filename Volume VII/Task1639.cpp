@@ -1,5 +1,5 @@
 // Topic: game
-// Subtopic: simple
+// Subtopic: directly calculated winning positions
 
 #include <iostream>
 

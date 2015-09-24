@@ -33,4 +33,5 @@ Solutions to problems from http://acm.timus.ru/
 * Games
 	* Directly calculated winning positions
 		* [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
-			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639)
+			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
+      [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
