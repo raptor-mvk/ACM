@@ -34,7 +34,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
 * Games
 	* Directly calculated winning positions
-		* [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
+		* [1023](http://acm.timus.ru/problem.aspx?space=1&num=1023),
+			[1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
 			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
 * Peculiar
