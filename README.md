@@ -20,8 +20,6 @@ Solutions to problems from http://acm.timus.ru/
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
-* Code analysis
-	* [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
@@ -35,3 +33,8 @@ Solutions to problems from http://acm.timus.ru/
 		* [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
 			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
+* Peculiar
+	* Code analysis
+		* [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082)
+	* Problem text analysis
+		* [1873](http://acm.timus.ru/problem.aspx?space=1&num=1873)
