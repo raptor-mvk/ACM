@@ -1,4 +1,5 @@
-// Topic: problem text analysis
+// Topic: peculiar
+// Subtopic: problem text analysis
 
 #include <iostream>
 

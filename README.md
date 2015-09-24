@@ -20,6 +20,9 @@ Solutions to problems from http://acm.timus.ru/
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
+* Math
+	* Reverse Polish notation
+    * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)

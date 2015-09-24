@@ -1,4 +1,5 @@
-// Topic: code analysis
+// Topic: peculiar
+// Subtopic: code analysis
 
 #include <iostream>
 
