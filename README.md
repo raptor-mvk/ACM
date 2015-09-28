@@ -23,6 +23,7 @@ Solutions to problems from http://acm.timus.ru/
 			[1877](http://acm.timus.ru/problem.aspx?space=1&num=1877),
 			[1902](http://acm.timus.ru/problem.aspx?space=1&num=1902),
 			[1925](http://acm.timus.ru/problem.aspx?space=1&num=1925),
+			[1991](http://acm.timus.ru/problem.aspx?space=1&num=1991),
 			[2001](http://acm.timus.ru/problem.aspx?space=1&num=2001)
   * Progressions
     * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
