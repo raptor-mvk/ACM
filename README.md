@@ -54,7 +54,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
 * Dynamic programming
   * One-dimensional
-    * [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
+    * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009)
+      [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
 * Games
   * Directly calculated winning positions
     * [1023](http://acm.timus.ru/problem.aspx?space=1&num=1023),
