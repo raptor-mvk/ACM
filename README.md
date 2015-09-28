@@ -24,11 +24,12 @@ Solutions to problems from http://acm.timus.ru/
 			[1876](http://acm.timus.ru/problem.aspx?space=1&num=1876),
 			[1877](http://acm.timus.ru/problem.aspx?space=1&num=1877),
 			[1902](http://acm.timus.ru/problem.aspx?space=1&num=1902),
+			[1910](http://acm.timus.ru/problem.aspx?space=1&num=1910),
 			[1925](http://acm.timus.ru/problem.aspx?space=1&num=1925),
 			[1991](http://acm.timus.ru/problem.aspx?space=1&num=1991),
 			[2001](http://acm.timus.ru/problem.aspx?space=1&num=2001)
   * Progressions
-    * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
+		* [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
 			[1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
 	* Mean values
@@ -37,9 +38,9 @@ Solutions to problems from http://acm.timus.ru/
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
 * Math
 	* Reverse Polish notation
-    * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
+		* [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
 	* Number theory
-    * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
+		* [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
@@ -50,7 +51,7 @@ Solutions to problems from http://acm.timus.ru/
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
 * Dynamic programming
 	* One-dimensional
-    * [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
+		* [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
 * Games
 	* Directly calculated winning positions
 		* [1023](http://acm.timus.ru/problem.aspx?space=1&num=1023),
@@ -58,7 +59,7 @@ Solutions to problems from http://acm.timus.ru/
 			[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
 	* Search
-		* [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789),
+		* [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789)
 * Peculiar
 	* Code analysis
 		* [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
