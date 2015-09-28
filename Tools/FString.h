@@ -8,6 +8,17 @@ class FString {
     static const int MAX_LENGTH = 201; // maximal string length
     static char delimiter; // strings' delimiter
     static char non_symbol; // symbol, that wouldn't appear in strings
+
+    // sets delimiter
+    static void setDelimiter(char delimiter) {
+      FString::delimiter = delimiter;
+    }
+
+    // sets symbol, that wouldn't appear in strings
+    static void setNonSymbol(char non_symbol) {
+      FString::non_symbol = non_symbol;
+    }
+
     char *data;
     int length; // current string length
     FString();

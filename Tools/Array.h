@@ -21,6 +21,11 @@ template <class type> class Array {
     static const int PAGE_SIZE = 1024; //size of one page
     static char delimiter; // delimiter for printing
 
+    // sets delimiter
+    static void setDelimiter(char delimiter) {
+      Array::delimiter = delimiter;
+    }
+
     Array();
     Array(const Array<type> &arr);
     Array(int length);

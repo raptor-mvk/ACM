@@ -23,14 +23,14 @@
 1443039527 source:d:\documents\github\acm\tools\array.cpp
 	"Array.h"
 
-1443039598 d:\documents\github\acm\tools\array.h
+1443468569 d:\documents\github\acm\tools\array.h
 	<iostream>
 	<cstring>
 
 1443040580 source:d:\documents\github\acm\tools\fstring.cpp
 	"FString.h"
 
-1443040297 d:\documents\github\acm\tools\fstring.h
+1443468602 d:\documents\github\acm\tools\fstring.h
 	"Array.h"
 
 1443037519 source:d:\documents\github\acm\volume i\task1051.cpp
@@ -56,4 +56,15 @@
 
 1443433628 source:d:\documents\github\acm\volume x\task1991.cpp
 	<iostream>
+
+1443469085 source:d:\documents\github\acm\volume i\task1012.cpp
+	"..\Tools\Huge.h"
+
+1443468460 source:d:\documents\github\acm\tools\huge.cpp
+	"Huge.h"
+	<iomanip>
+
+1443468158 d:\documents\github\acm\tools\huge.h
+	"FString.h"
+	<cmath>
 
