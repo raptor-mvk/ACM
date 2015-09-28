@@ -29,6 +29,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
 			[1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
+	* Mean values
+    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457),
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
 * Math
