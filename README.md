@@ -34,7 +34,7 @@ Solutions to problems from http://acm.timus.ru/
 			[1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
 			[1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
 	* Mean values
-    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457),
+		* [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457),
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
 * Math
@@ -61,6 +61,9 @@ Solutions to problems from http://acm.timus.ru/
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
 	* Search
 		* [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789)
+* Geometry
+	* Circles
+		* [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
 * Peculiar
 	* Code analysis
 		* [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
