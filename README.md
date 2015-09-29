@@ -47,6 +47,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
   * Number theory
     * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
+	* Graph of function
+    * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010)
   * Derivatives
     * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
   * Trigonometry + derivatives
@@ -58,8 +60,9 @@ Solutions to problems from http://acm.timus.ru/
     * [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
 * Sort methods
   * Bucket sort
-    * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
-    * [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617)
+    * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026),
+      [1263](http://acm.timus.ru/problem.aspx?space=1&num=1263),
+      [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617)
 * Data Structures
   * Stack
     * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001)
