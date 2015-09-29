@@ -19,6 +19,7 @@ Solutions to problems from http://acm.timus.ru/
       [1581](http://acm.timus.ru/problem.aspx?space=1&num=1581),
       [1607](http://acm.timus.ru/problem.aspx?space=1&num=1607),
       [1638](http://acm.timus.ru/problem.aspx?space=1&num=1638),
+      [1688](http://acm.timus.ru/problem.aspx?space=1&num=1688),
       [1725](http://acm.timus.ru/problem.aspx?space=1&num=1725),
       [1731](http://acm.timus.ru/problem.aspx?space=1&num=1731),
       [1740](http://acm.timus.ru/problem.aspx?space=1&num=1740),
@@ -37,6 +38,7 @@ Solutions to problems from http://acm.timus.ru/
   * Progressions
     * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
       [1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
+      [1209](http://acm.timus.ru/problem.aspx?space=1&num=1209),
       [1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
