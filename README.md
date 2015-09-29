@@ -71,6 +71,7 @@ Solutions to problems from http://acm.timus.ru/
 * Dynamic programming
   * One-dimensional
     * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),
+      [1073](http://acm.timus.ru/problem.aspx?space=1&num=1073)
       [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
   * One-dimensional with bignum arithmetic
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
