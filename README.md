@@ -87,6 +87,8 @@ Solutions to problems from http://acm.timus.ru/
   * Circles
     * [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
 * Peculiar
+  * Data manipulation
+    * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313)
   * Code analysis
     * [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
       [1214](http://acm.timus.ru/problem.aspx?space=1&num=1082)
