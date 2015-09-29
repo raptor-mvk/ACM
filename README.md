@@ -34,8 +34,6 @@ Solutions to problems from http://acm.timus.ru/
     * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
       [1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
       [1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
-  * Mean values
-    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
 * Math
@@ -43,6 +41,10 @@ Solutions to problems from http://acm.timus.ru/
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
   * Number theory
     * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
+  * Derivatives
+    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
+  * Trigonometry + derivatives
+    * [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
   * Probability theory
     * [1582](http://acm.timus.ru/problem.aspx?space=1&num=1582)
 * Sort methods
@@ -55,7 +57,7 @@ Solutions to problems from http://acm.timus.ru/
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
 * Dynamic programming
   * One-dimensional
-    * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009)
+    * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),
       [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
   * One-dimensional with bignum arithmetic
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
