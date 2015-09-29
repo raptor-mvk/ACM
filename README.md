@@ -56,6 +56,7 @@ Solutions to problems from http://acm.timus.ru/
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
+    * [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617)
 * Data Structures
   * Stack
     * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001)
