@@ -53,6 +53,9 @@ Solutions to problems from http://acm.timus.ru/
     * [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
   * Probability theory
     * [1582](http://acm.timus.ru/problem.aspx?space=1&num=1582)
+* Physics
+  * Free fall
+    * [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026)
