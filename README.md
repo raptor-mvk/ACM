@@ -49,7 +49,7 @@ Solutions to problems from http://acm.timus.ru/
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
   * Number theory
     * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
-	* Graph of function
+  * Graph of function
     * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010)
   * Derivatives
     * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
@@ -73,7 +73,7 @@ Solutions to problems from http://acm.timus.ru/
 * Dynamic programming
   * One-dimensional
     * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),
-      [1073](http://acm.timus.ru/problem.aspx?space=1&num=1073)
+      [1073](http://acm.timus.ru/problem.aspx?space=1&num=1073),
       [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
   * One-dimensional with bignum arithmetic
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
@@ -89,10 +89,11 @@ Solutions to problems from http://acm.timus.ru/
   * Circles
     * [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
 * Peculiar
-  * Data manipulation
-    * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313)
+  * Data representation
+    * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313),
+      [1506](http://acm.timus.ru/problem.aspx?space=1&num=1506)
   * Code analysis
     * [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
-      [1214](http://acm.timus.ru/problem.aspx?space=1&num=1082)
+      [1214](http://acm.timus.ru/problem.aspx?space=1&num=1214)
   * Problem text analysis
     * [1873](http://acm.timus.ru/problem.aspx?space=1&num=1873)
