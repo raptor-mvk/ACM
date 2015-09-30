@@ -1,7 +1,5 @@
-// Topic: geometry
-// Subtopic: solids of revolution
-// Idea: volume of the piece of pineapple is calculated by formula
-//       pi * int(y ^ 2 dx), where y = sqrt(b * b - x * x) * a / b
+// Topic: peculiar
+// Subtopic: data representation
 
 #include <iostream>
 

@@ -1,7 +1,11 @@
-#include "Array.h"
+#include <iostream>
+#include <cstring>
+#include <vector>
 
 #ifndef FSTRING_H_INCLUDED
 #define FSTRING_H_INCLUDED
+
+using namespace std;
 
 class FString {
   public:
@@ -47,21 +51,21 @@ class FString {
     void prefixFunc(int *pfvalues, int start);
 
     // returns positions of all occurrences of substr into string
-    Array<int> find(FString substr);
+    vector<int> find(FString substr);
 
     // returns substring [start,start+length-1]
     FString substrl(int start, int length) {
-      return FString(this->data + start, length);
+      return FString(this->data[start], length);
     }
 
     // returns substring [start,finish]
     FString substrf(int start, int finish) {
-      return FString(this->data + start, finish - start + 1);
+      return FString(this->data[start], finish - start + 1);
     }
 
     // returns substring [start,end of string]
     FString substr(int start) {
-      return FString(this->data + start, this->length - start);
+      return FString(this->data[start], this->length - start);
     }
 
     // reduces the length of string by count characters

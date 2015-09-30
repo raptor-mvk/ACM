@@ -184,9 +184,9 @@ void FString::prefixFunc(int *pfvalues, int start) {
 	}
 }
 
-Array<int> FString::find(FString substr) {
+vector<int> FString::find(FString substr) {
 	FString temp(substr);
-	Array<int> result;
+	vector<int> result;
 	int *pfunc;
 	temp += FString::non_symbol;
 	temp += *this;
@@ -194,7 +194,7 @@ Array<int> FString::find(FString substr) {
 	temp.prefixFunc(pfunc, 0);
 	for (int i = substr.length + 1; i < temp.length; i++) {
 		if (pfunc[i] == substr.length) {
-			result.push(i - 2 * substr.length);
+			result.push_back(i - 2 * substr.length);
 		}
 	}
 	return result;

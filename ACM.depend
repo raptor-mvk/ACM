@@ -5,7 +5,7 @@
 1443041372 source:d:\documents\github\acm\tools\reader.cpp
 	"Reader.h"
 
-1443041767 d:\documents\github\acm\tools\reader.h
+1443623845 d:\documents\github\acm\tools\reader.h
 	"FString.h"
 
 1443041640 source:d:\documents\github\acm\volume i\task1001.cpp
@@ -23,15 +23,16 @@
 1443039527 source:d:\documents\github\acm\tools\array.cpp
 	"Array.h"
 
-1443468569 d:\documents\github\acm\tools\array.h
-	<iostream>
-	<cstring>
+1443624828 d:\documents\github\acm\tools\array.h
+	<vector>
 
-1443040580 source:d:\documents\github\acm\tools\fstring.cpp
+1443623488 source:d:\documents\github\acm\tools\fstring.cpp
 	"FString.h"
 
-1443468602 d:\documents\github\acm\tools\fstring.h
-	"Array.h"
+1443623805 d:\documents\github\acm\tools\fstring.h
+	<iostream>
+	<cstring>
+	<vector>
 
 1443037519 source:d:\documents\github\acm\volume i\task1051.cpp
 	<iostream>
@@ -89,4 +90,11 @@
 
 1443603485 source:d:\documents\github\acm\volume v\task1493.cpp
 	<iostream>
+
+1443635235 source:d:\documents\github\acm\volume iv\task1313.cpp
+	<iostream>
+	"..\Tools\MVector.h"
+
+1443635350 d:\documents\github\acm\tools\mvector.h
+	<vector>
 

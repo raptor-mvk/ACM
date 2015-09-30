@@ -22,7 +22,7 @@ public:
 
 	// reads a number from buffer in dir direction (with delimiters,
   // if readln = true)
-	template <typename type> bool getNext(type *number, char dir, bool readln);
+	template <typename T> bool getNext(T *number, char dir, bool readln);
 
 	// reads a word in dir direction (with delimiter, if readln = true)
 	// check_func should return true for delimiter character
@@ -35,9 +35,9 @@ public:
 
 };
 
-template <typename type> bool Reader::getNext(type *number, char dir,
+template <typename T> bool Reader::getNext(T *number, char dir,
 	bool readln) {
-		type temp;
+		T temp;
 		switch (dir) {
 			case 'f':
 				if (this->start_pos > this->end_pos) {

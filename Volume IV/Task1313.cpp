@@ -2,26 +2,26 @@
 // Subtopic: data manipulation
 
 #include <iostream>
-
-using namespace std;
+#include "..\Tools\MVector.h"
 
 int main() {
-	int n, *in;
+	int n;
+	vector2<int> in;
 	cin >> n;
-	in = new int[n * n];
+	in.assign(n, n);
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
-			cin >> in[n * i + j];
+			cin >> in[i][j];
 		}
 	}
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j <= i; j++) {
-			cout << in[n * (i - j) + j] << ' ';
+			cout << in[i - j][j] << ' ';
 		}
 	}
 	for (int i = 1; i < n; i++) {
 		for (int j = i; j < n; j++) {
-			cout << in[n * (n - 1 - (j - i)) + j] << ' ';
+			cout << in[n - 1 - (j - i)][j] << ' ';
 		}
 	}
 }
