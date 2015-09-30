@@ -100,6 +100,7 @@ Solutions to problems from http://acm.timus.ru/
 * Peculiar
   * Data representation
     * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313),
+      [1319](http://acm.timus.ru/problem.aspx?space=1&num=1319),
       [1506](http://acm.timus.ru/problem.aspx?space=1&num=1506),
       [1881](http://acm.timus.ru/problem.aspx?space=1&num=1881)
   * Code analysis

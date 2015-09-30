@@ -32,12 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Tools/Array.cpp" />
-		<Unit filename="Tools/Array.h" />
 		<Unit filename="Tools/FString.cpp" />
 		<Unit filename="Tools/FString.h" />
 		<Unit filename="Tools/Huge.cpp" />
 		<Unit filename="Tools/Huge.h" />
+		<Unit filename="Tools/MVector.h" />
 		<Unit filename="Tools/Reader.cpp" />
 		<Unit filename="Tools/Reader.h" />
 		<Unit filename="Volume III/Task1209.cpp">
@@ -79,10 +78,14 @@
 		<Unit filename="Volume IV/Task1313.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume IV/Task1319.cpp" />
 		<Unit filename="Volume IV/Task1327.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume IV/Task1336.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume IV/Task1346.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume IV/Task1349.cpp">
@@ -106,6 +109,9 @@
 		<Unit filename="Volume IX/Task1877.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume IX/Task1881.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume IX/Task1885.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -125,6 +131,9 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume I/Task1012.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume I/Task1017.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume I/Task1023.cpp">
@@ -199,6 +208,15 @@
 		<Unit filename="Volume VI/Task1502.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume VI/Task1506.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume VI/Task1545.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume VI/Task1562.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume VI/Task1581.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -212,6 +230,9 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume V/Task1490.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Volume V/Task1493.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume XI/Task2001.cpp">
