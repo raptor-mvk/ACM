@@ -50,13 +50,17 @@ Solutions to problems from http://acm.timus.ru/
   * Number theory
     * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
   * Graph of function
-    * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010)
+    * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010),
+      [1346](http://acm.timus.ru/problem.aspx?space=1&num=1346)
   * Derivatives
     * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
   * Trigonometry + derivatives
     * [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
   * Probability theory
     * [1582](http://acm.timus.ru/problem.aspx?space=1&num=1582)
+* Strings
+  * Elementary
+    * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545)
 * Physics
   * Free fall
     * [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
