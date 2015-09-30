@@ -98,7 +98,8 @@ Solutions to problems from http://acm.timus.ru/
 * Peculiar
   * Data representation
     * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313),
-      [1506](http://acm.timus.ru/problem.aspx?space=1&num=1506)
+      [1506](http://acm.timus.ru/problem.aspx?space=1&num=1506),
+      [1881](http://acm.timus.ru/problem.aspx?space=1&num=1881)
   * Code analysis
     * [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
       [1214](http://acm.timus.ru/problem.aspx?space=1&num=1214)
