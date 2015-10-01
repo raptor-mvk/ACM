@@ -2,7 +2,7 @@
 // Subtopic: data manipulation
 
 #include <iostream>
-#include "..\Tools\MVector.h"
+#include "../Tools/MVector.h"
 
 int main() {
 	int n;

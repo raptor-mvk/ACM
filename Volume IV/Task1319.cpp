@@ -2,7 +2,7 @@
 // Subtopic: data representation
 
 #include <iostream>
-#include "..\Tools\MVector.h"
+#include "../Tools/MVector.h"
 
 int main() {
 	int n, cur_number = 1;

@@ -5,7 +5,7 @@
 //       where I runs from 1 to K - 1
 
 #include <iostream>
-#include "..\Tools\MVector.h"
+#include "../Tools/MVector.h"
 
 int main() {
 	int n;

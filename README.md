@@ -6,7 +6,9 @@ Solutions to problems from http://acm.timus.ru/
   * Elementary
     * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
       [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
+      [1079](http://acm.timus.ru/problem.aspx?space=1&num=1079),
       [1083](http://acm.timus.ru/problem.aspx?space=1&num=1083),
+      [1110](http://acm.timus.ru/problem.aspx?space=1&num=1110),
       [1120](http://acm.timus.ru/problem.aspx?space=1&num=1120),
       [1131](http://acm.timus.ru/problem.aspx?space=1&num=1131),
       [1191](http://acm.timus.ru/problem.aspx?space=1&num=1191),
@@ -18,6 +20,7 @@ Solutions to problems from http://acm.timus.ru/
       [1336](http://acm.timus.ru/problem.aspx?space=1&num=1336),
       [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
       [1493](http://acm.timus.ru/problem.aspx?space=1&num=1493),
+      [1573](http://acm.timus.ru/problem.aspx?space=1&num=1573),
       [1581](http://acm.timus.ru/problem.aspx?space=1&num=1581),
       [1607](http://acm.timus.ru/problem.aspx?space=1&num=1607),
       [1636](http://acm.timus.ru/problem.aspx?space=1&num=1636),

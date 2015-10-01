@@ -4,7 +4,7 @@
 
 #include <iomanip>
 #include <cmath>
-#include "..\Tools\Reader.h"
+#include "../Tools/Reader.h"
 
 const int DATA_SIZE = 256 * 1024 + 1;
 

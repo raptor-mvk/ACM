@@ -4,7 +4,7 @@
 //       with any digit except zero to form (N + 1)-digit number
 //       or with any digit except zero and zero to form (N + 2)-digit number
 
-#include "..\Tools\Huge.h"
+#include "../Tools/Huge.h"
 
 int main() {
 	int n, k;
