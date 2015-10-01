@@ -1,5 +1,5 @@
 // Topic: geometry
-// Subtopic: circles
+// Subtopic: elementary
 // Idea: calculating area of rings
 
 #include <iostream>

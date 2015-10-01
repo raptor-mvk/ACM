@@ -107,8 +107,9 @@ Solutions to problems from http://acm.timus.ru/
   * Search
     * [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789)
 * Geometry
-  * Circles
-    * [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
+  * Elementary
+    * [1020](http://acm.timus.ru/problem.aspx?space=1&num=1020),
+      [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
   * Solids of revolution
     * [1562](http://acm.timus.ru/problem.aspx?space=1&num=1562)
 * Peculiar
