@@ -82,8 +82,9 @@ Solutions to problems from http://acm.timus.ru/
       [1654](http://acm.timus.ru/problem.aspx?space=1&num=1654)
   * Circular queue
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
-  * Tree
-    * [1136](http://acm.timus.ru/problem.aspx?space=1&num=1136)
+  * Binary tree
+    * [1088](http://acm.timus.ru/problem.aspx?space=1&num=1088),
+      [1136](http://acm.timus.ru/problem.aspx?space=1&num=1136)
 * Dynamic programming
   * One-dimensional
     * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),

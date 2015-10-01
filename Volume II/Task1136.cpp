@@ -1,5 +1,5 @@
 // Topic: data structures
-// Subtopic: tree
+// Subtopic: binary tree
 // Idea: swap subtrees, all members of left subtree are less
 //       than any member of right subtree
 
