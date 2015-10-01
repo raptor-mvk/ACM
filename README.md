@@ -64,7 +64,7 @@ Solutions to problems from http://acm.timus.ru/
     * [1582](http://acm.timus.ru/problem.aspx?space=1&num=1582)
 * Strings
   * Elementary
-    * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545)
+    * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545),
 * Physics
   * Free fall
     * [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
@@ -72,7 +72,8 @@ Solutions to problems from http://acm.timus.ru/
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026),
       [1263](http://acm.timus.ru/problem.aspx?space=1&num=1263),
-      [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617)
+      [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617),
+      [1723](http://acm.timus.ru/problem.aspx?space=1&num=1723)
 * Data Structures
   * Stack
     * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
