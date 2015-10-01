@@ -5,6 +5,7 @@ Solutions to problems from http://acm.timus.ru/
 * Arithmetics
   * Elementary
     * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
+      [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
       [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
       [1044](http://acm.timus.ru/problem.aspx?space=1&num=1044),
       [1079](http://acm.timus.ru/problem.aspx?space=1&num=1079),
