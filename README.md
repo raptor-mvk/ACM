@@ -96,6 +96,8 @@ Solutions to problems from http://acm.timus.ru/
       [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
       [1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
+  * Deterministic strategy
+    * [1087](http://acm.timus.ru/problem.aspx?space=1&num=1087)
   * Search
     * [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789)
 * Geometry
