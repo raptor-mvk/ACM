@@ -72,9 +72,12 @@ Solutions to problems from http://acm.timus.ru/
       [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617)
 * Data Structures
   * Stack
-    * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001)
+    * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+      [1654](http://acm.timus.ru/problem.aspx?space=1&num=1654)
   * Circular queue
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
+  * Tree
+    * [1136](http://acm.timus.ru/problem.aspx?space=1&num=1136)
 * Dynamic programming
   * One-dimensional
     * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),
