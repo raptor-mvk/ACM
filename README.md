@@ -66,8 +66,9 @@ Solutions to problems from http://acm.timus.ru/
   * Elementary
     * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545),
 * Physics
-  * Free fall
-    * [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
+  * Movement in gravitational field
+    * [1192](http://acm.timus.ru/problem.aspx?space=1&num=1192),
+      [1800](http://acm.timus.ru/problem.aspx?space=1&num=1800)
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026),
@@ -86,7 +87,8 @@ Solutions to problems from http://acm.timus.ru/
   * One-dimensional
     * [1009](http://acm.timus.ru/problem.aspx?space=1&num=1009),
       [1073](http://acm.timus.ru/problem.aspx?space=1&num=1073),
-      [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225)
+      [1225](http://acm.timus.ru/problem.aspx?space=1&num=1225),
+      [1353](http://acm.timus.ru/problem.aspx?space=1&num=1353)
   * One-dimensional with bignum arithmetic
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
   * Two-dimensional

@@ -1,5 +1,5 @@
 // Topic: physics
-// Subtopic: free fall
+// Subtopic: movement in gravitational field
 // Idea: time of free fall from 'h' to 'l / 2' is
 //       sqrt((2 * h - l) / G / 100)
 
