@@ -1,5 +1,5 @@
 // Topic: math
-// Subtopic: trigonometry + derivatives
+// Subtopic: derivatives
 // Idea: displacement to the left is H / 2 * cos(a) - h / tan(a),
 //       where a is angle between book and shelf
 

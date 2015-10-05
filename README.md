@@ -61,8 +61,7 @@ Solutions to problems from http://acm.timus.ru/
       [1346](http://acm.timus.ru/problem.aspx?space=1&num=1346)
   * Derivatives
     * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
-  * Trigonometry + derivatives
-    * [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
+      [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
   * Probability theory
     * [1582](http://acm.timus.ru/problem.aspx?space=1&num=1582)
 * Strings
@@ -115,7 +114,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1562](http://acm.timus.ru/problem.aspx?space=1&num=1562)
 * Peculiar
   * Data representation
-    * [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313),
+    * [1149](http://acm.timus.ru/problem.aspx?space=1&num=1149),
+      [1313](http://acm.timus.ru/problem.aspx?space=1&num=1313),
       [1319](http://acm.timus.ru/problem.aspx?space=1&num=1319),
       [1506](http://acm.timus.ru/problem.aspx?space=1&num=1506),
       [1881](http://acm.timus.ru/problem.aspx?space=1&num=1881)
