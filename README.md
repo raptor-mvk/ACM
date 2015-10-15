@@ -114,6 +114,7 @@ Solutions to problems from http://acm.timus.ru/
 * Geometry
   * Elementary
     * [1020](http://acm.timus.ru/problem.aspx?space=1&num=1020),
+      [1084](http://acm.timus.ru/problem.aspx?space=1&num=1084),
       [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
   * Solids of revolution
     * [1562](http://acm.timus.ru/problem.aspx?space=1&num=1562)
