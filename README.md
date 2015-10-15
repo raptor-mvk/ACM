@@ -128,5 +128,6 @@ Solutions to problems from http://acm.timus.ru/
     * [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
       [1214](http://acm.timus.ru/problem.aspx?space=1&num=1214)
   * Problem text analysis
-    * [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785)
+    * [1352](http://acm.timus.ru/problem.aspx?space=1&num=1352)
+      [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785)
       [1873](http://acm.timus.ru/problem.aspx?space=1&num=1873)
