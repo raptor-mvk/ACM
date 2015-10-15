@@ -16,6 +16,7 @@ Solutions to problems from http://acm.timus.ru/
       [1191](http://acm.timus.ru/problem.aspx?space=1&num=1191),
       [1224](http://acm.timus.ru/problem.aspx?space=1&num=1224),
       [1228](http://acm.timus.ru/problem.aspx?space=1&num=1228),
+      [1243](http://acm.timus.ru/problem.aspx?space=1&num=1243),
       [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
       [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
       [1327](http://acm.timus.ru/problem.aspx?space=1&num=1327),

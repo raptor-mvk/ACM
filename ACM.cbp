@@ -77,6 +77,9 @@
 		<Unit filename="Volume II/Task1136.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume II/Task1149.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume II/Task1191.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -239,6 +242,9 @@
 		<Unit filename="Volume VII/Task1639.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume VII/Task1645.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume VII/Task1654.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -287,6 +293,7 @@
 		<Unit filename="Volume XI/Task2012.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume XI/Task2023.cpp" />
 		<Unit filename="Volume X/Task1902.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
