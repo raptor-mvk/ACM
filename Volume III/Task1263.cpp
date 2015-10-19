@@ -1,5 +1,5 @@
-// Topic: sort methods
-// Subtopic: bucket sort
+// Topic: arithmetic
+// Subtopic: elementary
 
 #include <iostream>
 #include <cstring>

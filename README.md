@@ -22,6 +22,7 @@ Solutions to problems from http://acm.timus.ru/
       [1224](http://acm.timus.ru/problem.aspx?space=1&num=1224),
       [1228](http://acm.timus.ru/problem.aspx?space=1&num=1228),
       [1243](http://acm.timus.ru/problem.aspx?space=1&num=1243),
+      [1263](http://acm.timus.ru/problem.aspx?space=1&num=1263),
       [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
       [1292](http://acm.timus.ru/problem.aspx?space=1&num=1292),
       [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
@@ -30,6 +31,7 @@ Solutions to problems from http://acm.timus.ru/
       [1404](http://acm.timus.ru/problem.aspx?space=1&num=1404),
       [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
       [1493](http://acm.timus.ru/problem.aspx?space=1&num=1493),
+      [1567](http://acm.timus.ru/problem.aspx?space=1&num=1567),
       [1573](http://acm.timus.ru/problem.aspx?space=1&num=1573),
       [1576](http://acm.timus.ru/problem.aspx?space=1&num=1576),
       [1581](http://acm.timus.ru/problem.aspx?space=1&num=1581),
@@ -93,7 +95,6 @@ Solutions to problems from http://acm.timus.ru/
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026),
-      [1263](http://acm.timus.ru/problem.aspx?space=1&num=1263),
       [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617),
       [1723](http://acm.timus.ru/problem.aspx?space=1&num=1723)
 * Data Structures
