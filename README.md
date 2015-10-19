@@ -79,6 +79,8 @@ Solutions to problems from http://acm.timus.ru/
 * Strings
   * Elementary
     * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545),
+      [1563](http://acm.timus.ru/problem.aspx?space=1&num=1563),
+      [1786](http://acm.timus.ru/problem.aspx?space=1&num=1786)
 * Physics
   * Movement in gravitational field
     * [1192](http://acm.timus.ru/problem.aspx?space=1&num=1192),
