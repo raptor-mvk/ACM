@@ -102,10 +102,12 @@
 	<iostream>
 	"..\Tools\MVector.h"
 
-1443691138 source:d:\documents\github\acm\tools\calculator.cpp
+1445432803 source:d:\documents\github\acm\tools\calculator.cpp
 	"Calculator.h"
 
-1443690993 d:\documents\github\acm\tools\calculator.h
+1445432426 d:\documents\github\acm\tools\calculator.h
+	<vector>
+	<cmath>
 
 1444042603 source:d:\documents\github\acm\volume xi\task2023.cpp
 	<iostream>
@@ -142,4 +144,8 @@
 1445250294 source:d:\documents\github\acm\volume iii\task1292.cpp
 	<iostream>
 	<cmath>
+
+1445432207 source:d:\documents\github\acm\volume i\task1049.cpp
+	<iostream>
+	"../Tools/Calculator.h"
 

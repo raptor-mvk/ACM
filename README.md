@@ -77,7 +77,8 @@ Solutions to problems from http://acm.timus.ru/
   * Coding theory
     * [1792](http://acm.timus.ru/problem.aspx?space=1&num=1792)
   * Number theory
-    * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
+    * [1049](http://acm.timus.ru/problem.aspx?space=1&num=1049),
+      [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
   * Graph of function
     * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010),
       [1346](http://acm.timus.ru/problem.aspx?space=1&num=1346)
