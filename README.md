@@ -74,6 +74,8 @@ Solutions to problems from http://acm.timus.ru/
 * Math
   * Reverse Polish notation
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
+  * Coding theory
+    * [1792](http://acm.timus.ru/problem.aspx?space=1&num=1792)
   * Number theory
     * [1349](http://acm.timus.ru/problem.aspx?space=1&num=1349)
   * Graph of function
