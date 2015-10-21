@@ -10,6 +10,7 @@ Solutions to problems from http://acm.timus.ru/
       [1032](http://acm.timus.ru/problem.aspx?space=1&num=1032),
       [1044](http://acm.timus.ru/problem.aspx?space=1&num=1044),
       [1047](http://acm.timus.ru/problem.aspx?space=1&num=1044),
+      [1070](http://acm.timus.ru/problem.aspx?space=1&num=1070),
       [1079](http://acm.timus.ru/problem.aspx?space=1&num=1079),
       [1083](http://acm.timus.ru/problem.aspx?space=1&num=1083),
       [1110](http://acm.timus.ru/problem.aspx?space=1&num=1110),
