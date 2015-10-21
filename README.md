@@ -130,6 +130,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1087](http://acm.timus.ru/problem.aspx?space=1&num=1087)
   * Search
     * [1789](http://acm.timus.ru/problem.aspx?space=1&num=1789)
+  * Graph
+    * [1045](http://acm.timus.ru/problem.aspx?space=1&num=1045)
 * Geometry
   * Elementary
     * [1020](http://acm.timus.ru/problem.aspx?space=1&num=1020),

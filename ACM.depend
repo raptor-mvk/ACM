@@ -29,7 +29,7 @@
 1443623488 source:d:\documents\github\acm\tools\fstring.cpp
 	"FString.h"
 
-1443623805 d:\documents\github\acm\tools\fstring.h
+1445433737 d:\documents\github\acm\tools\fstring.h
 	<iostream>
 	<cstring>
 	<vector>
@@ -102,7 +102,7 @@
 	<iostream>
 	"..\Tools\MVector.h"
 
-1445432803 source:d:\documents\github\acm\tools\calculator.cpp
+1445432875 source:d:\documents\github\acm\tools\calculator.cpp
 	"Calculator.h"
 
 1445432426 d:\documents\github\acm\tools\calculator.h
@@ -148,4 +148,15 @@
 1445432207 source:d:\documents\github\acm\volume i\task1049.cpp
 	<iostream>
 	"../Tools/Calculator.h"
+
+1445436081 source:d:\documents\github\acm\tools\graph.cpp
+	"Graph.h"
+
+1445436073 d:\documents\github\acm\tools\graph.h
+	<iostream>
+	"MVector.h"
+
+1445434281 source:d:\documents\github\acm\volume i\task1045.cpp
+	<iostream>
+	"../Tools/Graph.h"
 

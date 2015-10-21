@@ -26,8 +26,8 @@ class FString {
     char *data;
     int length; // current string length
     FString();
-    FString(char *data, int length);
-    FString(char symbol, int length);
+    FString(char *data, int length); // initialize with data
+    FString(char symbol, int length); // initialize with symbol
     FString(const FString &str);
     FString &operator=(const FString &str);
     friend bool operator<(const FString &left, const FString &right);
