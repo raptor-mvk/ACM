@@ -36,6 +36,8 @@
 		<Unit filename="Tools/Calculator.h" />
 		<Unit filename="Tools/FString.cpp" />
 		<Unit filename="Tools/FString.h" />
+		<Unit filename="Tools/Graph.cpp" />
+		<Unit filename="Tools/Graph.h" />
 		<Unit filename="Tools/Huge.cpp" />
 		<Unit filename="Tools/Huge.h" />
 		<Unit filename="Tools/MVector.h" />
@@ -203,16 +205,22 @@
 		<Unit filename="Volume I/Task1044.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume I/Task1045.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume I/Task1047.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Volume I/Task1048.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="Volume I/Task1049.cpp" />
+		<Unit filename="Volume I/Task1049.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume I/Task1051.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume I/Task1054.cpp" />
 		<Unit filename="Volume I/Task1059.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
