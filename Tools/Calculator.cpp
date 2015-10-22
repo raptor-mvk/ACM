@@ -20,6 +20,37 @@ int Calculator::fastExpMod(int x, int n, int m) {
   return result;
 }
 
+int Calculator::partPermutCount(int n, int k) {
+  int result = 1;
+  for (int i = 1; i <= k; i++) {
+    result *= n - i + 1;
+    result /= i;
+  }
+  return result;
+}
+
+int Calculator::ordDistribCount(int n, int k) {
+  int result = 0;
+  if (k <= 0) {
+    result = 0;
+  } else if (k == 1) {
+    result = 1;
+  } else {
+    for (int i = 1; i <= n - k + 1; i++) {
+      result += ordDistribCount(n - i, k - 1) * partPermutCount(n, i);
+    }
+  }
+  return result;
+}
+
+int Calculator::ordGroupCount(int n) {
+  int result = 0;
+  for (int i = 1; i <= n; i++) {
+    result += ordDistribCount(n, i);
+  }
+  return result;
+}
+
 int Calculator::getNextPrime() {
   int result = lastPrime + 2;
   bool found = false;

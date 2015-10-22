@@ -23,8 +23,7 @@ int stepsCount(int k, int *nums, int start, int finish, int temp) {
       result = -1;
     }
   }
-  return resul3
-  1t;
+  return result;
 }
 
 int main() {

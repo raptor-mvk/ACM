@@ -24,6 +24,15 @@ class Calculator {
     // fast modular exponentiation
     static int fastExpMod(int x, int n, int m);
 
+    // calculate number of partial permutations of k elements from n
+    static int partPermutCount(int n, int k);
+
+    // calculate number of ordered distributions of n elements to k groups
+    static int ordDistribCount(int n, int k);
+
+    // calculate number of ordered groupings of n elements
+    static int ordGroupCount(int n);
+
     // get all prime numbers, which are less than n
     vector<int> *getPrimes(int n);
 
