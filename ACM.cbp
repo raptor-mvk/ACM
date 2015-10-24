@@ -88,6 +88,9 @@
 		<Unit filename="Volume II/Task1136.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume II/Task1142.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume II/Task1149.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -199,6 +202,9 @@
 		<Unit filename="Volume I/Task1026.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume I/Task1031.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume I/Task1032.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -220,7 +226,9 @@
 		<Unit filename="Volume I/Task1051.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="Volume I/Task1054.cpp" />
+		<Unit filename="Volume I/Task1054.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Volume I/Task1059.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -374,6 +382,7 @@
 		<Unit filename="Volume V/Task1493.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Volume V/Task1496.cpp" />
 		<Unit filename="Volume XI/Task2001.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

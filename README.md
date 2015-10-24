@@ -156,6 +156,7 @@ Solutions to problems from http://acm.timus.ru/
       [1723](http://acm.timus.ru/problem.aspx?space=1&num=1723)
 * Strings
   * Elementary
-    * [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545),
+    * [1496](http://acm.timus.ru/problem.aspx?space=1&num=1496),
+      [1545](http://acm.timus.ru/problem.aspx?space=1&num=1545),
       [1563](http://acm.timus.ru/problem.aspx?space=1&num=1563),
       [1786](http://acm.timus.ru/problem.aspx?space=1&num=1786)
