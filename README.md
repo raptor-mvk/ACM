@@ -94,6 +94,7 @@ Solutions to problems from http://acm.timus.ru/
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
   * Two-dimensional
     * [1017](http://acm.timus.ru/problem.aspx?space=1&num=1017)
+      [1167](http://acm.timus.ru/problem.aspx?space=1&num=1167)
 * Games
   * Deterministic strategy
     * [1087](http://acm.timus.ru/problem.aspx?space=1&num=1087)
