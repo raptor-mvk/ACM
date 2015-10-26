@@ -9,8 +9,6 @@
 #include <iostream>
 #include "../Tools/MVector.h"
 
-using namespace std;
-
 int main() {
   int *horses;
   int n, k, cur, next, min, cur_count, groups_count = 0;
