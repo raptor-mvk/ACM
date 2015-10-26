@@ -75,7 +75,8 @@ Solutions to problems from http://acm.timus.ru/
       [1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
 * Data Structures
   * Binary tree
-    * [1088](http://acm.timus.ru/problem.aspx?space=1&num=1088),
+    * [1028](http://acm.timus.ru/problem.aspx?space=1&num=1028),
+      [1088](http://acm.timus.ru/problem.aspx?space=1&num=1088),
       [1136](http://acm.timus.ru/problem.aspx?space=1&num=1136)
   * Circular queue
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
