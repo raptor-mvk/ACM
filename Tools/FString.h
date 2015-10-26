@@ -9,9 +9,13 @@ using namespace std;
 
 class FString {
   public:
-    static const int MAX_LENGTH = 201; // maximal string length
+    static int maxLength; // maximal string length
     static char delimiter; // strings' delimiter
     static char non_symbol; // symbol, that wouldn't appear in strings
+
+    static void setMaxLength(int maxLength) {
+      FString::maxLength = maxLength;
+    }
 
     // sets delimiter
     static void setDelimiter(char delimiter) {

@@ -26,10 +26,10 @@
 1443624828 d:\documents\github\acm\tools\array.h
 	<vector>
 
-1443623488 source:d:\documents\github\acm\tools\fstring.cpp
+1445850422 source:d:\documents\github\acm\tools\fstring.cpp
 	"FString.h"
 
-1445433737 d:\documents\github\acm\tools\fstring.h
+1445850383 d:\documents\github\acm\tools\fstring.h
 	<iostream>
 	<cstring>
 	<vector>
@@ -166,4 +166,11 @@
 1445518909 source:d:\documents\github\acm\volume v\task1496.cpp
 	<iostream>
 	<cstring>
+
+1445848195 source:d:\documents\github\acm\volume iii\task1236.cpp
+	<iostream>
+	<string>
+
+1445850607 source:d:\documents\github\acm\volume i\task1050.cpp
+	"../Tools/Reader.h"
 

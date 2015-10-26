@@ -2,14 +2,15 @@
 
 char FString::delimiter = '\n';
 char FString::non_symbol = '@';
+int FString::maxLength = 201;
 
 FString::FString() {
-	this->data = new char[FString::MAX_LENGTH];
+	this->data = new char[FString::maxLength];
 	this->length = 0;
 }
 
 FString::FString(char *data, int length) {
-	this->data = new char[FString::MAX_LENGTH];
+	this->data = new char[FString::maxLength];
 	if (length) {
 		memcpy(this->data, data, length);
 	}
@@ -17,7 +18,7 @@ FString::FString(char *data, int length) {
 }
 
 FString::FString(char symbol, int length) {
-	this->data = new char[FString::MAX_LENGTH];
+	this->data = new char[FString::maxLength];
 	if (length) {
 		memset(this->data, symbol, length);
 	}
@@ -25,7 +26,7 @@ FString::FString(char symbol, int length) {
 }
 
 FString::FString(const FString &str) {
-	this->data = new char[FString::MAX_LENGTH];
+	this->data = new char[FString::maxLength];
 	this->length = str.length;
 	if (str.length) {
 		memcpy(this->data, str.data, str.length);
@@ -105,7 +106,7 @@ ostream &operator<<(ostream &stream, const FString &str) {
 }
 
 istream &operator>>(istream &stream, FString &str) {
-	stream.getline(str.data, FString::MAX_LENGTH, FString::delimiter);
+	stream.getline(str.data, FString::maxLength, FString::delimiter);
 	if (stream.eof()) {
 		str.length = stream.gcount();
 	} else {
