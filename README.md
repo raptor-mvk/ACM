@@ -17,6 +17,7 @@ Solutions to problems from http://acm.timus.ru/
       [1079](http://acm.timus.ru/problem.aspx?space=1&num=1079),
       [1083](http://acm.timus.ru/problem.aspx?space=1&num=1083),
       [1098](http://acm.timus.ru/problem.aspx?space=1&num=1098),
+      [1104](http://acm.timus.ru/problem.aspx?space=1&num=1104),
       [1110](http://acm.timus.ru/problem.aspx?space=1&num=1110),
       [1118](http://acm.timus.ru/problem.aspx?space=1&num=1118),
       [1120](http://acm.timus.ru/problem.aspx?space=1&num=1120),
@@ -157,6 +158,7 @@ Solutions to problems from http://acm.timus.ru/
 * Sort methods
   * Bucket sort
     * [1026](http://acm.timus.ru/problem.aspx?space=1&num=1026),
+      [1164](http://acm.timus.ru/problem.aspx?space=1&num=1164),
       [1617](http://acm.timus.ru/problem.aspx?space=1&num=1617),
       [1723](http://acm.timus.ru/problem.aspx?space=1&num=1723)
 * Strings

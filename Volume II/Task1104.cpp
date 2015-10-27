@@ -32,6 +32,6 @@ int main() {
     }
   }
   if (!found) {
-  	cout<<"No solution.";
+  	cout << "No solution.";
   }
 }
