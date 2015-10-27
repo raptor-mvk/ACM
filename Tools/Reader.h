@@ -104,4 +104,39 @@ template <typename T> bool Reader::getNext(T *number, char dir,
 		return false;
 }
 
+// returns true, if symbol is '.', '!' or '?'
+bool isSentenceEnd(char symbol);
+
+// returns true, if symbol is a latin capital letter
+bool isCapitalLetter(char symbol);
+
+// returns lowercased latin capital letters
+// (or symbol itself for other symbols)
+char lowerCase(char symbol);
+
+// returns true, if symbol is a space, '\t', '\n', '.', ','
+// '-', '!', '?', ':' or ';'
+bool isPunctuationOrDelim(char symbol);
+
+// returns true, if symbol is a latin lowercase letter
+bool isLowercaseLetter(char symbol);
+
+// returns true, if symbol is a latin letter
+bool isLetter(char symbol);
+
+// returns true, if symbol is not a latin letter
+bool notLetter(char symbol);
+
+// returns true, if symbol is a digit
+bool isDigit(char symbol);
+
+// returns true, if symbol is not a digit
+bool notDigit(char symbol);
+
+// returns true, if symbol is a space, '\t' or '\n'
+bool isDelim(char symbol);
+
+// returns true, if symbol is '\n'
+bool isEndl(char symbol);
+
 #endif // READER_H_INCLUDED

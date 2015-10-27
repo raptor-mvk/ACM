@@ -2,10 +2,10 @@
 1442948793 source:d:\documents\github\acm\volume i\task1000.cpp
 	<iostream>
 
-1443041372 source:d:\documents\github\acm\tools\reader.cpp
+1445864965 source:d:\documents\github\acm\tools\reader.cpp
 	"Reader.h"
 
-1443623845 d:\documents\github\acm\tools\reader.h
+1445864952 d:\documents\github\acm\tools\reader.h
 	"FString.h"
 
 1443041640 source:d:\documents\github\acm\volume i\task1001.cpp
@@ -172,5 +172,11 @@
 	<string>
 
 1445850607 source:d:\documents\github\acm\volume i\task1050.cpp
+	"../Tools/Reader.h"
+
+1445859507 source:d:\documents\github\acm\volume iii\task1262.cpp
+	"../Tools/Reader.h"
+
+1445860585 source:d:\documents\github\acm\volume i\task1098.cpp
 	"../Tools/Reader.h"
 

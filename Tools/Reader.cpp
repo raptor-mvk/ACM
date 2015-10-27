@@ -102,7 +102,7 @@ char lowerCase(char symbol) {
 bool isPunctuationOrDelim(char symbol) {
 	return symbol == ' ' || symbol == '\t' || symbol == '\n' || symbol == '.' ||
 		symbol == ',' || symbol == '-' || symbol == '!' || symbol == '?' ||
-		symbol==':';
+		symbol == ':' || symbol == ';';
 }
 
 bool isLowercaseLetter(char symbol) {
@@ -132,3 +132,4 @@ bool isDelim(char symbol) {
 bool isEndl(char symbol) {
 	return symbol == '\n';
 }
+
