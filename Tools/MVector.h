@@ -101,6 +101,10 @@ template <class T> class vector3
     int size() {
       return dim[0] * dim[1] * dim[2];
     }
+
+    ~vector3() {
+      delete [] data;
+    }
 };
 
 template <class T> vector3<T>::vector3() {

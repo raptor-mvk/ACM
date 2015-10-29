@@ -55,7 +55,7 @@ class FString {
     void prefixFunc(int *pfvalues, int start);
 
     // returns positions of all occurrences of substr into string
-    vector<int> find(FString substr);
+    void find(FString substr, vector<int> *result);
 
     // returns substring [start,start+length-1]
     FString substrl(int start, int length) {

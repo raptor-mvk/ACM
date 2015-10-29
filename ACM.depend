@@ -26,10 +26,10 @@
 1443624828 d:\documents\github\acm\tools\array.h
 	<vector>
 
-1445850422 source:d:\documents\github\acm\tools\fstring.cpp
+1446120176 source:d:\documents\github\acm\tools\fstring.cpp
 	"FString.h"
 
-1445850383 d:\documents\github\acm\tools\fstring.h
+1446120320 d:\documents\github\acm\tools\fstring.h
 	<iostream>
 	<cstring>
 	<vector>
@@ -149,11 +149,12 @@
 	<iostream>
 	"../Tools/Calculator.h"
 
-1445436081 source:d:\documents\github\acm\tools\graph.cpp
+1446116635 source:d:\documents\github\acm\tools\graph.cpp
 	"Graph.h"
 
-1445436073 d:\documents\github\acm\tools\graph.h
+1446116551 d:\documents\github\acm\tools\graph.h
 	<iostream>
+	<cstring>
 	"MVector.h"
 
 1445434281 source:d:\documents\github\acm\volume i\task1045.cpp
@@ -179,4 +180,14 @@
 
 1445860585 source:d:\documents\github\acm\volume i\task1098.cpp
 	"../Tools/Reader.h"
+
+1445935015 source:d:\documents\github\acm\volume ii\task1164.cpp
+	"../Tools/Reader.h"
+
+1446109216 source:d:\documents\github\acm\volume i\task1061.cpp
+	"../Tools/Reader.h"
+
+1446120580 source:d:\documents\github\acm\volume i\task1002.cpp
+	"../Tools/Reader.h"
+	"../Tools/Graph.h"
 

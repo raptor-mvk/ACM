@@ -13,6 +13,7 @@ Solutions to problems from http://acm.timus.ru/
       [1044](http://acm.timus.ru/problem.aspx?space=1&num=1044),
       [1047](http://acm.timus.ru/problem.aspx?space=1&num=1047),
       [1054](http://acm.timus.ru/problem.aspx?space=1&num=1054),
+      [1061](http://acm.timus.ru/problem.aspx?space=1&num=1061),
       [1070](http://acm.timus.ru/problem.aspx?space=1&num=1070),
       [1079](http://acm.timus.ru/problem.aspx?space=1&num=1079),
       [1083](http://acm.timus.ru/problem.aspx?space=1&num=1083),
@@ -117,6 +118,9 @@ Solutions to problems from http://acm.timus.ru/
       [1490](http://acm.timus.ru/problem.aspx?space=1&num=1490)
   * Solids of revolution
     * [1562](http://acm.timus.ru/problem.aspx?space=1&num=1562)
+* Graph theory
+  * Lee algorithm
+    * [1002](http://acm.timus.ru/problem.aspx?space=1&num=1002)
 * Math
   * Coding theory
     * [1792](http://acm.timus.ru/problem.aspx?space=1&num=1792)

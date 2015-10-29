@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 #include "MVector.h"
 
 #ifndef GRAPH_H_INCLUDED
@@ -14,7 +15,13 @@ class Graph {
   public:
     Graph(int n, bool isOriented);
 
-    void readEdgeList(istream &stream, int k); // read k edges from stream
+    // read k edges from stream
+    void readEdgeList(istream &stream, int k, bool weighed = false);
+
+    void addEdge(int i, int j, int weight = 1); // add edge from i to j
+
+    // way search between 'first' and 'last' using lee algorithm
+    void findWayLee(int first, int last, vector<int> *way);
 
     // gets all neighbors of kth vertex
     void getNeighbors(int k, vector<int> *result);
