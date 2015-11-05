@@ -1,6 +1,7 @@
 // Topic: graph
-// Subtopic: elementary
-// Idea: full search
+// Subtopic: Lee algorithm
+// Idea: vertices of graph are digits in phone number, edges are words of
+//       dictionary
 
 #include "../Tools/Reader.h"
 #include "../Tools/Graph.h"

@@ -77,6 +77,9 @@ Solutions to problems from http://acm.timus.ru/
       [1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
       [1209](http://acm.timus.ru/problem.aspx?space=1&num=1209),
       [1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
+* Compiler construction
+  * Lexical analysis
+    * [1050](http://acm.timus.ru/problem.aspx?space=1&num=1050)
 * Data Structures
   * Binary tree
     * [1028](http://acm.timus.ru/problem.aspx?space=1&num=1028),
@@ -141,7 +144,8 @@ Solutions to problems from http://acm.timus.ru/
     * [1059](http://acm.timus.ru/problem.aspx?space=1&num=1059)
 * Peculiar
   * Code analysis
-    * [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
+    * [1064](http://acm.timus.ru/problem.aspx?space=1&num=1064),
+      [1082](http://acm.timus.ru/problem.aspx?space=1&num=1082),
       [1214](http://acm.timus.ru/problem.aspx?space=1&num=1214)
   * Data representation
     * [1149](http://acm.timus.ru/problem.aspx?space=1&num=1149),
