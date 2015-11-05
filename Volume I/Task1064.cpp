@@ -9,7 +9,7 @@ using namespace std;
 
 const int MAX_N = 10002;
 
-int binary_search(int x, int n, int *a) {
+int binarySearch(int x, int n, int *a) {
   int p, q, i, l;
   p = 0;
   q = n - 1;
@@ -38,7 +38,7 @@ int main() {
 	memset(nVal, false, sizeof(bool)*MAX_N);
 	for (j = 0; j < MAX_N - 1; j++) {
 		a[j] = j;
-		if (j >= i && binary_search(i, j, a) == l) {
+		if (j >= i && binarySearch(i, j, a) == l) {
 			nVal[j] = true;
 			if (!nVal[j - 1]) {
         intervalsCount++;
