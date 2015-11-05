@@ -10,7 +10,7 @@ const int PRIME_DIGITS = 4;
 const int DIGITS[PRIME_DIGITS] = {2, 3, 5, 7};
 
 int main() {
-	int n, q;
+	int n;
 	int dividers[PRIME_DIGITS];
 	memset(dividers, 0, PRIME_DIGITS * sizeof(int));
 	cin >> n;

@@ -191,3 +191,8 @@
 	"../Tools/Reader.h"
 	"../Tools/Graph.h"
 
+1446729339 source:d:\documents\github\acm\volume i\task1025.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
