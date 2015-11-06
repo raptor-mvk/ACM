@@ -105,7 +105,8 @@ Solutions to problems from http://acm.timus.ru/
   * One-dimensional with bignum arithmetic
     * [1012](http://acm.timus.ru/problem.aspx?space=1&num=1012)
   * Two-dimensional
-    * [1017](http://acm.timus.ru/problem.aspx?space=1&num=1017)
+    * [1017](http://acm.timus.ru/problem.aspx?space=1&num=1017),
+      [1029](http://acm.timus.ru/problem.aspx?space=1&num=1029),
       [1167](http://acm.timus.ru/problem.aspx?space=1&num=1167)
 * Games
   * Deterministic strategy
