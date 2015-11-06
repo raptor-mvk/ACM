@@ -27,6 +27,7 @@ Solutions to problems from http://acm.timus.ru/
       [1120](http://acm.timus.ru/problem.aspx?space=1&num=1120),
       [1131](http://acm.timus.ru/problem.aspx?space=1&num=1131),
       [1157](http://acm.timus.ru/problem.aspx?space=1&num=1157),
+      [1178](http://acm.timus.ru/problem.aspx?space=1&num=1178),
       [1191](http://acm.timus.ru/problem.aspx?space=1&num=1191),
       [1197](http://acm.timus.ru/problem.aspx?space=1&num=1197),
       [1224](http://acm.timus.ru/problem.aspx?space=1&num=1224),
@@ -134,8 +135,10 @@ Solutions to problems from http://acm.timus.ru/
   * Combinatorics
     * [1142](http://acm.timus.ru/problem.aspx?space=1&num=1142)
   * Derivatives
-    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457)
+    * [1457](http://acm.timus.ru/problem.aspx?space=1&num=1457),
       [1753](http://acm.timus.ru/problem.aspx?space=1&num=1753)
+  * Gaussian elimination
+    * [1042](http://acm.timus.ru/problem.aspx?space=1&num=1042)
   * Graph of function
     * [1010](http://acm.timus.ru/problem.aspx?space=1&num=1010),
       [1346](http://acm.timus.ru/problem.aspx?space=1&num=1346)
