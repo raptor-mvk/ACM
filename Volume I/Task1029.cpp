@@ -12,8 +12,6 @@
 #include "../Tools/MVector.h"
 #include <iostream>
 
-using namespace std;
-
 const int MIN_FEE=2000000000;
 
 int main() {
