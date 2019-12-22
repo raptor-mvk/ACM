@@ -1,1 +1,0 @@
-Problem solutions from http://acm.timus.ru/ written in Python 3.6

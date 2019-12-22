@@ -1,3 +1,5 @@
+# Topic: elementary
+
 import math
 import sys
 

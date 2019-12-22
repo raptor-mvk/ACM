@@ -1,3 +1,5 @@
+# Topic: elementary
+
 import sys
 import functools
 

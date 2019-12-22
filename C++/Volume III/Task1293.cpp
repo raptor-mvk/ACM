@@ -1,5 +1,4 @@
-// Topic: arithmetic
-// Subtopic: elementary
+// Topic: elementary
 
 #include <iostream>
 
