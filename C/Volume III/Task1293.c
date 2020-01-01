@@ -1,10 +1,6 @@
 // Topic: elementary
 
-#pragma comment(linker, "/STACK:16777216")
-
 #include <stdio.h>
-#include <memory.h>
-#include <math.h>
 
 int main()
 {

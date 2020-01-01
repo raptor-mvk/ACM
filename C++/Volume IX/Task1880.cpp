@@ -1,17 +1,18 @@
-// Topic: arithmetic
-// Subtopic: elementary
+// Topic: elementary
 
 #include <iostream>
 
 using namespace std;
 
-int main() {
+int main()
+{
   int n1, n2, cur, count, j;
   int *numbers;
   cin >> n1;
   numbers = new int[n1];
-  for (int i = 0; i < n1; i++)
-  	cin >> numbers[i];
+  for (int i = 0; i < n1; i++) {
+    cin >> numbers[i];
+  }
   count = n1;
   for (int k = 0; k < 2; k++) {
     cin >> n2;
@@ -33,5 +34,5 @@ int main() {
       count--;
     }
   }
-	cout<<count;
+  cout<<count;
 }

@@ -1,11 +1,11 @@
-// Topic: arithmetic
-// Subtopic: elementary
+// Topic: elementary
 
 #include <iostream>
 
 using namespace std;
 
-int main() {
+int main()
+{
   int n, m;
   cin >> n >> m;
   cout << (n * (m + 1));

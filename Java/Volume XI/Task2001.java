@@ -3,11 +3,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Task2012
+public class Task2001
 {
-  static final int TASKS = 12;
-  static final int TIME = 45;
-  static final int TOTAL_TIME = 240;
   Scanner in;
   PrintWriter out;
 
@@ -20,15 +17,16 @@ public class Task2012
   }
 
   void solve() throws IOException {
-    int f = in.nextInt();
-    if (TIME * (TASKS - f) < TOTAL_TIME) {
-      out.println("YES");
-    } else {
-      out.println("NO");
-    }
+    int a1 = in.nextInt();
+    int b1 = in.nextInt();
+    in.nextInt();
+    int b2 = in.nextInt();
+    int a3 = in.nextInt();
+    in.nextInt();
+    out.println((a1 - a3) + " " + (b1 - b2));
   }
 
   public static void main(String[] args) throws IOException {
-    new Task2012().run();
+    new Task2001().run();
   }
 }
