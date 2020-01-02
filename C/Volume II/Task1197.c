@@ -2,15 +2,12 @@
 
 #include <stdio.h>
 
-const int MAX_LENGTH = 3;
-
 int main()
 {
   int n, i;
-  char c[MAX_LENGTH], to_side1, to_side2, min, max;
+  char c[3], to_side1, to_side2, min, max;
   scanf("%d", &n);
-  for (i = 0; i < n; i++)
-  {
+  for (i = 0; i < n; i++) {
     scanf("%3s", c);
     to_side1 = ((*c - 'a') > ('h' - *c)) ? ('h' - *c) : (*c - 'a');
     to_side2 = ((*(c + 1) - '1') > ('8' - *(c + 1))) ? ('8' - *(c + 1)) : (*(c + 1) - '1');

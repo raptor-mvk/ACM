@@ -15,8 +15,7 @@ int main()
     st.push(sqrt((double)a));
   }
   cout << fixed << setprecision(4);
-  while(!st.empty())
-  {
+  while(!st.empty()) {
     cout << st.top() << endl;
     st.pop();
   }

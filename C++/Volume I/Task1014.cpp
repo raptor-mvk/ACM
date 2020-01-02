@@ -1,5 +1,4 @@
-// Topic: arithmetic
-// Subtopic: elementary
+// Topic: elementary
 
 #include <iostream>
 #include <cstring>
@@ -9,16 +8,17 @@ using namespace std;
 const int PRIME_DIGITS = 4;
 const int DIGITS[PRIME_DIGITS] = {2, 3, 5, 7};
 
-int main() {
-	int n;
-	int dividers[PRIME_DIGITS];
-	memset(dividers, 0, PRIME_DIGITS * sizeof(int));
-	cin >> n;
-	if (n == 1) {
-		cout << 1;
-	}	else if (n == 0) {
-		cout << 10;
-	} else {
+int main()
+{
+  int n;
+  int dividers[PRIME_DIGITS];
+  memset(dividers, 0, PRIME_DIGITS * sizeof(int));
+  cin >> n;
+  if (n == 1) {
+    cout << 1;
+  } else if (n == 0) {
+    cout << 10;
+  } else {
     for (int i = 0; i < PRIME_DIGITS; i++) {
       while (n % DIGITS[i] == 0) {
         dividers[i]++;
@@ -29,8 +29,8 @@ int main() {
       cout << -1;
     } else {
       if ((dividers[0] % 3 == 1 && dividers[1] % 2 != 1) ||
-          (dividers[0] % 3 == 2 && dividers[1] % 2 == 1)) {
-        cout << 2;
+        (dividers[0] % 3 == 2 && dividers[1] % 2 == 1)) {
+          cout << 2;
       }
       if (dividers[1] % 2 == 1 && dividers[0] % 3 == 0) {
         cout << 3;

@@ -6,11 +6,6 @@ Solutions to problems from http://acm.timus.ru/
   * Bignum
     * [1048](http://acm.timus.ru/problem.aspx?space=1&num=1048)
   * Elementary
-    * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
-      [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
-      [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
-      [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
-      [1021](http://acm.timus.ru/problem.aspx?space=1&num=1021),
       [1025](http://acm.timus.ru/problem.aspx?space=1&num=1025),
       [1032](http://acm.timus.ru/problem.aspx?space=1&num=1032),
       [1044](http://acm.timus.ru/problem.aspx?space=1&num=1044),
@@ -31,20 +26,16 @@ Solutions to problems from http://acm.timus.ru/
       [1157](http://acm.timus.ru/problem.aspx?space=1&num=1157),
       [1178](http://acm.timus.ru/problem.aspx?space=1&num=1178),
       [1191](http://acm.timus.ru/problem.aspx?space=1&num=1191),
-      [1197](http://acm.timus.ru/problem.aspx?space=1&num=1197),
       [1224](http://acm.timus.ru/problem.aspx?space=1&num=1224),
       [1228](http://acm.timus.ru/problem.aspx?space=1&num=1228),
       [1236](http://acm.timus.ru/problem.aspx?space=1&num=1236),
       [1243](http://acm.timus.ru/problem.aspx?space=1&num=1243),
       [1262](http://acm.timus.ru/problem.aspx?space=1&num=1262),
       [1263](http://acm.timus.ru/problem.aspx?space=1&num=1263),
-      [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
       [1292](http://acm.timus.ru/problem.aspx?space=1&num=1292),
-      [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
       [1327](http://acm.timus.ru/problem.aspx?space=1&num=1327),
       [1336](http://acm.timus.ru/problem.aspx?space=1&num=1336),
       [1404](http://acm.timus.ru/problem.aspx?space=1&num=1404),
-      [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
       [1493](http://acm.timus.ru/problem.aspx?space=1&num=1493),
       [1567](http://acm.timus.ru/problem.aspx?space=1&num=1567),
       [1573](http://acm.timus.ru/problem.aspx?space=1&num=1573),
@@ -62,25 +53,18 @@ Solutions to problems from http://acm.timus.ru/
       [1731](http://acm.timus.ru/problem.aspx?space=1&num=1731),
       [1740](http://acm.timus.ru/problem.aspx?space=1&num=1740),
       [1756](http://acm.timus.ru/problem.aspx?space=1&num=1756),
-      [1787](http://acm.timus.ru/problem.aspx?space=1&num=1787),
       [1796](http://acm.timus.ru/problem.aspx?space=1&num=1796),
-      [1820](http://acm.timus.ru/problem.aspx?space=1&num=1820),
       [1864](http://acm.timus.ru/problem.aspx?space=1&num=1864),
       [1869](http://acm.timus.ru/problem.aspx?space=1&num=1869),
       [1876](http://acm.timus.ru/problem.aspx?space=1&num=1876),
-      [1877](http://acm.timus.ru/problem.aspx?space=1&num=1877),
       [1878](http://acm.timus.ru/problem.aspx?space=1&num=1878),
-      [1880](http://acm.timus.ru/problem.aspx?space=1&num=1880),
       [1885](http://acm.timus.ru/problem.aspx?space=1&num=1885),
       [1902](http://acm.timus.ru/problem.aspx?space=1&num=1902),
       [1910](http://acm.timus.ru/problem.aspx?space=1&num=1910),
       [1925](http://acm.timus.ru/problem.aspx?space=1&num=1925),
       [1991](http://acm.timus.ru/problem.aspx?space=1&num=1991),
-      [2001](http://acm.timus.ru/problem.aspx?space=1&num=2001),
-      [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
       [2023](http://acm.timus.ru/problem.aspx?space=1&num=2023)
   * Progressions
-    * [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
       [1194](http://acm.timus.ru/problem.aspx?space=1&num=1194),
       [1209](http://acm.timus.ru/problem.aspx?space=1&num=1209),
       [1502](http://acm.timus.ru/problem.aspx?space=1&num=1502)
@@ -95,7 +79,6 @@ Solutions to problems from http://acm.timus.ru/
   * Circular queue
     * [1370](http://acm.timus.ru/problem.aspx?space=1&num=1370)
   * Stack
-    * [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
       [1654](http://acm.timus.ru/problem.aspx?space=1&num=1654)
 * Dynamic programming
   * One-dimensional
@@ -117,7 +100,6 @@ Solutions to problems from http://acm.timus.ru/
   * Directly calculated winning positions
     * [1023](http://acm.timus.ru/problem.aspx?space=1&num=1023),
       [1051](http://acm.timus.ru/problem.aspx?space=1&num=1051),
-      [1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
       [1924](http://acm.timus.ru/problem.aspx?space=1&num=1924)
   * Graph
     * [1045](http://acm.timus.ru/problem.aspx?space=1&num=1045)
@@ -169,7 +151,6 @@ Solutions to problems from http://acm.timus.ru/
       [1881](http://acm.timus.ru/problem.aspx?space=1&num=1881)
   * Problem text analysis
     * [1352](http://acm.timus.ru/problem.aspx?space=1&num=1352),
-      [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785),
       [1873](http://acm.timus.ru/problem.aspx?space=1&num=1873),
       [1893](http://acm.timus.ru/problem.aspx?space=1&num=1893)
 * Physics

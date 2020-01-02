@@ -8,8 +8,7 @@
 void calc_sqrt()
 {
   long long a;
-  if (scanf("%I64d ", &a)!=EOF)
-  {
+  if (scanf("%I64d ", &a)!=EOF) {
     calc_sqrt();
     printf("%.4f\n", sqrt((double)a));
   }

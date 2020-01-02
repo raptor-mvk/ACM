@@ -1,12 +1,11 @@
-// Topic: arithmetic
-// Subtopic: progressions
+// Topic: elementary
 
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
-int main() {
+int main()
+{
   int n;
   cin >> n;
   if (!n) {
