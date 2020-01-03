@@ -115,8 +115,6 @@ Solutions to problems from http://acm.timus.ru/
 * Graph theory
   * Elementary
     * [1022](http://acm.timus.ru/problem.aspx?space=1&num=1022)
-  * Lee algorithm
-    * [1002](http://acm.timus.ru/problem.aspx?space=1&num=1002)
 * Math
   * Coding theory
     * [1792](http://acm.timus.ru/problem.aspx?space=1&num=1792)

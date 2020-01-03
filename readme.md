@@ -4,6 +4,8 @@ Problem solutions from http://acm.timus.ru/ written in C, C++, Java, Python3
 
 # Topics
 
+* Data structures
+    * [1003](http://acm.timus.ru/problem.aspx?space=1&num=1003),
 * Elementary
     * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
       [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
@@ -25,6 +27,9 @@ Problem solutions from http://acm.timus.ru/ written in C, C++, Java, Python3
       [1880](http://acm.timus.ru/problem.aspx?space=1&num=1880),
       [2001](http://acm.timus.ru/problem.aspx?space=1&num=2001),
       [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
+* Graph theory
+    * Lee algorithm
+        * [1002](http://acm.timus.ru/problem.aspx?space=1&num=1002),
 
 # Languages
 
@@ -33,6 +38,7 @@ Problem solutions from http://acm.timus.ru/ written in C, C++, Java, Python3
     * Volume I
         * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
           [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+          [1003](http://acm.timus.ru/problem.aspx?space=1&num=1003),
           [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
           [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
           [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
@@ -54,6 +60,7 @@ Problem solutions from http://acm.timus.ru/ written in C, C++, Java, Python3
     * Volume I
         * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
           [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+          [1002](http://acm.timus.ru/problem.aspx?space=1&num=1002),
           [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
           [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
           [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
