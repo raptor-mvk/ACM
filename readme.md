@@ -2,73 +2,91 @@ Problem solutions from http://acm.timus.ru/ written in C, C++, Java, Python3
 
 [Statistics](https://acm.timus.ru/author.aspx?id=70729)
 
+# Topics
 
-&nbsp;|[`1000`](http://acm.timus.ru/problem.aspx?space=1&num=1000)|[`1001`](http://acm.timus.ru/problem.aspx?space=1&num=1001)|[`1002`](http://acm.timus.ru/problem.aspx?space=1&num=1002)|[`1003`](http://acm.timus.ru/problem.aspx?space=1&num=1003)|[`1004`](http://acm.timus.ru/problem.aspx?space=1&num=1004)|[`1005`](http://acm.timus.ru/problem.aspx?space=1&num=1005)|[`1006`](http://acm.timus.ru/problem.aspx?space=1&num=1006)|[`1007`](http://acm.timus.ru/problem.aspx?space=1&num=1007)|[`1008`](http://acm.timus.ru/problem.aspx?space=1&num=1008)|[`1009`](http://acm.timus.ru/problem.aspx?space=1&num=1009)|
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/python/python-original.svg?sanitize=true" alt="" width="32px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||||||
+* Elementary
+    * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
+      [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+      [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
+      [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
+      [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
+      [1021](http://acm.timus.ru/problem.aspx?space=1&num=1021),
+      [1025](http://acm.timus.ru/problem.aspx?space=1&num=1025),
+      [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
+      [1197](http://acm.timus.ru/problem.aspx?space=1&num=1197),
+      [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
+      [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
+      [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
+      [1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
+      [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785),
+      [1787](http://acm.timus.ru/problem.aspx?space=1&num=1787),
+      [1820](http://acm.timus.ru/problem.aspx?space=1&num=1820),
+      [1877](http://acm.timus.ru/problem.aspx?space=1&num=1877),
+      [1880](http://acm.timus.ru/problem.aspx?space=1&num=1880),
+      [2001](http://acm.timus.ru/problem.aspx?space=1&num=2001),
+      [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
 
-&nbsp;|[`1010`](http://acm.timus.ru/problem.aspx?space=1&num=1010)|[`1011`](http://acm.timus.ru/problem.aspx?space=1&num=1011)|[`1012`](http://acm.timus.ru/problem.aspx?space=1&num=1012)|[`1013`](http://acm.timus.ru/problem.aspx?space=1&num=1013)|[`1014`](http://acm.timus.ru/problem.aspx?space=1&num=1014)|[`1015`](http://acm.timus.ru/problem.aspx?space=1&num=1015)|[`1016`](http://acm.timus.ru/problem.aspx?space=1&num=1016)|[`1017`](http://acm.timus.ru/problem.aspx?space=1&num=1017)|[`1018`](http://acm.timus.ru/problem.aspx?space=1&num=1018)|[`1019`](http://acm.timus.ru/problem.aspx?space=1&num=1019)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||||
+# Languages
 
-&nbsp;|[`1020`](http://acm.timus.ru/problem.aspx?space=1&num=1020)|[`1021`](http://acm.timus.ru/problem.aspx?space=1&num=1021)|[`1022`](http://acm.timus.ru/problem.aspx?space=1&num=1022)|[`1023`](http://acm.timus.ru/problem.aspx?space=1&num=1023)|[`1024`](http://acm.timus.ru/problem.aspx?space=1&num=1024)|[`1025`](http://acm.timus.ru/problem.aspx?space=1&num=1025)|[`1026`](http://acm.timus.ru/problem.aspx?space=1&num=1026)|[`1027`](http://acm.timus.ru/problem.aspx?space=1&num=1027)|[`1028`](http://acm.timus.ru/problem.aspx?space=1&num=1028)|[`1029`](http://acm.timus.ru/problem.aspx?space=1&num=1029)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||
-
-&nbsp;|[`1030`](http://acm.timus.ru/problem.aspx?space=1&num=1030)|[`1031`](http://acm.timus.ru/problem.aspx?space=1&num=1031)|[`1032`](http://acm.timus.ru/problem.aspx?space=1&num=1032)|[`1033`](http://acm.timus.ru/problem.aspx?space=1&num=1033)|[`1034`](http://acm.timus.ru/problem.aspx?space=1&num=1034)|[`1035`](http://acm.timus.ru/problem.aspx?space=1&num=1035)|[`1036`](http://acm.timus.ru/problem.aspx?space=1&num=1036)|[`1037`](http://acm.timus.ru/problem.aspx?space=1&num=1037)|[`1038`](http://acm.timus.ru/problem.aspx?space=1&num=1038)|[`1039`](http://acm.timus.ru/problem.aspx?space=1&num=1039)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1040`](http://acm.timus.ru/problem.aspx?space=1&num=1040)|[`1041`](http://acm.timus.ru/problem.aspx?space=1&num=1041)|[`1042`](http://acm.timus.ru/problem.aspx?space=1&num=1042)|[`1043`](http://acm.timus.ru/problem.aspx?space=1&num=1043)|[`1044`](http://acm.timus.ru/problem.aspx?space=1&num=1044)|[`1045`](http://acm.timus.ru/problem.aspx?space=1&num=1045)|[`1046`](http://acm.timus.ru/problem.aspx?space=1&num=1046)|[`1047`](http://acm.timus.ru/problem.aspx?space=1&num=1047)|[`1048`](http://acm.timus.ru/problem.aspx?space=1&num=1048)|[`1049`](http://acm.timus.ru/problem.aspx?space=1&num=1049)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1050`](http://acm.timus.ru/problem.aspx?space=1&num=1050)|[`1051`](http://acm.timus.ru/problem.aspx?space=1&num=1051)|[`1052`](http://acm.timus.ru/problem.aspx?space=1&num=1052)|[`1053`](http://acm.timus.ru/problem.aspx?space=1&num=1053)|[`1054`](http://acm.timus.ru/problem.aspx?space=1&num=1054)|[`1055`](http://acm.timus.ru/problem.aspx?space=1&num=1055)|[`1056`](http://acm.timus.ru/problem.aspx?space=1&num=1056)|[`1057`](http://acm.timus.ru/problem.aspx?space=1&num=1057)|[`1058`](http://acm.timus.ru/problem.aspx?space=1&num=1058)|[`1059`](http://acm.timus.ru/problem.aspx?space=1&num=1059)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1060`](http://acm.timus.ru/problem.aspx?space=1&num=1060)|[`1061`](http://acm.timus.ru/problem.aspx?space=1&num=1061)|[`1062`](http://acm.timus.ru/problem.aspx?space=1&num=1062)|[`1063`](http://acm.timus.ru/problem.aspx?space=1&num=1063)|[`1064`](http://acm.timus.ru/problem.aspx?space=1&num=1064)|[`1065`](http://acm.timus.ru/problem.aspx?space=1&num=1065)|[`1066`](http://acm.timus.ru/problem.aspx?space=1&num=1066)|[`1067`](http://acm.timus.ru/problem.aspx?space=1&num=1067)|[`1068`](http://acm.timus.ru/problem.aspx?space=1&num=1068)|[`1069`](http://acm.timus.ru/problem.aspx?space=1&num=1069)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1070`](http://acm.timus.ru/problem.aspx?space=1&num=1070)|[`1071`](http://acm.timus.ru/problem.aspx?space=1&num=1071)|[`1072`](http://acm.timus.ru/problem.aspx?space=1&num=1072)|[`1073`](http://acm.timus.ru/problem.aspx?space=1&num=1073)|[`1074`](http://acm.timus.ru/problem.aspx?space=1&num=1074)|[`1075`](http://acm.timus.ru/problem.aspx?space=1&num=1075)|[`1076`](http://acm.timus.ru/problem.aspx?space=1&num=1076)|[`1077`](http://acm.timus.ru/problem.aspx?space=1&num=1077)|[`1078`](http://acm.timus.ru/problem.aspx?space=1&num=1078)|[`1079`](http://acm.timus.ru/problem.aspx?space=1&num=1079)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1080`](http://acm.timus.ru/problem.aspx?space=1&num=1080)|[`1081`](http://acm.timus.ru/problem.aspx?space=1&num=1081)|[`1082`](http://acm.timus.ru/problem.aspx?space=1&num=1082)|[`1083`](http://acm.timus.ru/problem.aspx?space=1&num=1083)|[`1084`](http://acm.timus.ru/problem.aspx?space=1&num=1084)|[`1085`](http://acm.timus.ru/problem.aspx?space=1&num=1085)|[`1086`](http://acm.timus.ru/problem.aspx?space=1&num=1086)|[`1087`](http://acm.timus.ru/problem.aspx?space=1&num=1087)|[`1088`](http://acm.timus.ru/problem.aspx?space=1&num=1088)|[`1089`](http://acm.timus.ru/problem.aspx?space=1&num=1089)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;|[`1090`](http://acm.timus.ru/problem.aspx?space=1&num=1090)|[`1091`](http://acm.timus.ru/problem.aspx?space=1&num=1091)|[`1092`](http://acm.timus.ru/problem.aspx?space=1&num=1092)|[`1093`](http://acm.timus.ru/problem.aspx?space=1&num=1093)|[`1094`](http://acm.timus.ru/problem.aspx?space=1&num=1094)|[`1095`](http://acm.timus.ru/problem.aspx?space=1&num=1095)|[`1096`](http://acm.timus.ru/problem.aspx?space=1&num=1096)|[`1097`](http://acm.timus.ru/problem.aspx?space=1&num=1097)|[`1098`](http://acm.timus.ru/problem.aspx?space=1&num=1098)|[`1099`](http://acm.timus.ru/problem.aspx?space=1&num=1099)
--|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||||||||||
-
-&nbsp;||[1068](http://acm.timus.ru/problem.aspx?space=1&num=1068)|||||||||||
--|-|-|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||||||||
-
-&nbsp;|||[1197](http://acm.timus.ru/problem.aspx?space=1&num=1197)|[1264](http://acm.timus.ru/problem.aspx?space=1&num=1264)|[1293](http://acm.timus.ru/problem.aspx?space=1&num=1293)|[1409](http://acm.timus.ru/problem.aspx?space=1&num=1409)|[1639](http://acm.timus.ru/problem.aspx?space=1&num=1639)|[1785](http://acm.timus.ru/problem.aspx?space=1&num=1785)|[1787](http://acm.timus.ru/problem.aspx?space=1&num=1787)|[1820](http://acm.timus.ru/problem.aspx?space=1&num=1820)|[1877](http://acm.timus.ru/problem.aspx?space=1&num=1877)|[1880](http://acm.timus.ru/problem.aspx?space=1&num=1880)|
--|-|-|-|-|-|-|-|-|-|-|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">||||||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|
-<img src="https://github.com/konpa/devicon/raw/master/icons/python/python-original.svg?sanitize=true" alt="" width="32px">|||||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|||||
-    
-&nbsp;|[2001](http://acm.timus.ru/problem.aspx?space=1&num=2001)|[2012](http://acm.timus.ru/problem.aspx?space=1&num=2012)|
--|-|-|
-<img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="32px">|||
-<img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="32px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|
-<img src="https://github.com/konpa/devicon/raw/master/icons/java/java-original.svg?sanitize=true" alt="" width="32px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|
-<img src="https://github.com/konpa/devicon/raw/master/icons/python/python-original.svg?sanitize=true" alt="" width="32px">||<img src="https://github.com/google/material-design-icons/blob/master/action/svg/production/ic_done_24px.svg?sanitize=true" alt="" width="24px">|
-      
+  * <img src="https://github.com/konpa/devicon/raw/master/icons/c/c-line.svg?sanitize=true" alt="" width="64px">
+    * Volume I
+      * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
+        [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+        [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
+        [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
+        [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
+        [1021](http://acm.timus.ru/problem.aspx?space=1&num=1021),
+        [1025](http://acm.timus.ru/problem.aspx?space=1&num=1025),
+        [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
+   * Volume II 
+      * [1197](http://acm.timus.ru/problem.aspx?space=1&num=1197),
+   * Volume III 
+      * [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
+        [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
+   * Volume V 
+      * [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
+   * Volume VII 
+      * [1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
+  * <img src="https://github.com/konpa/devicon/raw/master/icons/cplusplus/cplusplus-line.svg?sanitize=true" alt="" width="64px">
+    * Volume I
+      * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
+        [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+        [1005](http://acm.timus.ru/problem.aspx?space=1&num=1005),
+        [1011](http://acm.timus.ru/problem.aspx?space=1&num=1011),
+        [1014](http://acm.timus.ru/problem.aspx?space=1&num=1014),
+        [1021](http://acm.timus.ru/problem.aspx?space=1&num=1021),
+        [1025](http://acm.timus.ru/problem.aspx?space=1&num=1025),
+        [1068](http://acm.timus.ru/problem.aspx?space=1&num=1068),
+   * Volume II 
+      * [1197](http://acm.timus.ru/problem.aspx?space=1&num=1197),
+   * Volume III 
+      * [1264](http://acm.timus.ru/problem.aspx?space=1&num=1264),
+        [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
+   * Volume V 
+      * [1409](http://acm.timus.ru/problem.aspx?space=1&num=1409),
+   * Volume VII 
+      * [1639](http://acm.timus.ru/problem.aspx?space=1&num=1639),
+   * Volume VIII 
+      * [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785),
+        [1787](http://acm.timus.ru/problem.aspx?space=1&num=1787),
+   * Volume IX 
+      * [1820](http://acm.timus.ru/problem.aspx?space=1&num=1820),
+        [1877](http://acm.timus.ru/problem.aspx?space=1&num=1877),
+        [1880](http://acm.timus.ru/problem.aspx?space=1&num=1880),
+   * Volume XI 
+      * [2001](http://acm.timus.ru/problem.aspx?space=1&num=2001),
+        [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
+  * <img src="https://github.com/konpa/devicon/raw/master/icons/java/java-original.svg?sanitize=true" alt="" width="64px">
+   * Volume XI 
+      * [2001](http://acm.timus.ru/problem.aspx?space=1&num=2001),
+        [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
+  * <img src="https://github.com/konpa/devicon/raw/master/icons/python/python-original.svg?sanitize=true" alt="" width="64px">
+    * Volume I
+      * [1000](http://acm.timus.ru/problem.aspx?space=1&num=1000),
+        [1001](http://acm.timus.ru/problem.aspx?space=1&num=1001),
+   * Volume III 
+      * [1293](http://acm.timus.ru/problem.aspx?space=1&num=1293),
+   * Volume VIII 
+      * [1785](http://acm.timus.ru/problem.aspx?space=1&num=1785),
+   * Volume XI 
+      * [2012](http://acm.timus.ru/problem.aspx?space=1&num=2012),
